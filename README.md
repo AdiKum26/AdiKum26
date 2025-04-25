@@ -18,6 +18,7 @@
 - 🤖 **MIT Innovation Workshop (Top African Students)** – Learned AI, robotics, NLP, and more  
 - 📱 Working on a fitness app that offers personalized workout and diet plans  
 - 🧪 Research project: Tech access and population health in Seattle's Madison Park
+- 💻 Contributed to StartupClubUW's web development using JavaScript, HTML, and CSS
 
 ---
 
@@ -33,12 +34,12 @@
 ## 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/aditya-kumar05/)  
-- Email: adityakumar@email.com  
-- Instagram: @adityafit
+- Email: adideeavi1@gmail.com  
+- Instagram: @adi.kumar._
 
 ---
 
 ## 📊 GitHub Stats
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdiKum26&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiKum26&layout=compact&theme=tokyonight) 
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdiKum26&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiKum26&layout=compact&theme=tokyonight&hide=jupyter%20notebook) 
