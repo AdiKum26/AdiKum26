@@ -42,4 +42,4 @@
 ## 📊 GitHub Stats
 
 ![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdiKum26&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiKum26&layout=compact&theme=tokyonight&hide=jupyter%20notebook) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiKum26&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true) 
