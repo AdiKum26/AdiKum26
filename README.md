@@ -35,6 +35,10 @@ University of Washington
 - Created opportunities for students to pitch, collaborate, and prototype startup ideas
 - Active member of both Startup Club and Barbell Club, fostering innovation and fitness communities
 
+**Glucode**
+Gauteng, South Africa
+- Gained insights into professional work culture and the agile development methodology while contributing to the development of the Pokedex app using SwiftUI in a team of interns.
+
 **MIT Innovation Workshop Participant**
 Top African Students Program
 - Gained hands-on experience in AI, robotics, and NLP
@@ -45,14 +49,18 @@ Top African Students Program
 
 🛠️ Projects
 
+**DubsTech Health ML Hackathon**
+University of Washington
+- Developed a CatBoost Regressor model (93.4% test accuracy, ±0.0011 error) to predict hospital discharge costs using Python (Pandas, NumPy, Matplotlib, Seaborn) and presented findings with Tableau.
+
 🌐 **Startup Club Website**
 Co-developed a responsive and animated website with HTML, CSS, and JavaScript for UW's Startup Club.
 
-💪 **Fitness App (In Development)**
-Mobile application offering personalized workout and diet plans, leveraging modern app development technologies.
+🌐 **LITSWAP Website**
+Co-developed a website for an NGO using Google Sites that aims to distribute books to disadvantaged areas. 3,300+ books have been collected and distributed.
 
-🔬 **Tech Access Research**
-Investigating technology accessibility and its impact on population health in Seattle's Madison Park area.
+🐾 **Rainbow Nation Animals Website**
+Developed a website for an NGO focused on the welfare of abandoned animals using WordPress.
 
 🏆 **Breakthrough Junior Challenge**
 Award-winning project on quantum entanglement, demonstrating complex scientific concepts through engaging presentation.
