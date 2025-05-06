@@ -49,14 +49,14 @@ Top African Students Program
 
 🛠️ Projects
 
-**DubsTech Health ML Hackathon**
+🔬 **DubsTech Health ML Hackathon**
 University of Washington
 - Developed a CatBoost Regressor model (93.4% test accuracy, ±0.0011 error) to predict hospital discharge costs using Python (Pandas, NumPy, Matplotlib, Seaborn) and presented findings with Tableau.
 
-🌐 **Startup Club Website**
+ 🌐 **Startup Club Website**
 Co-developed a responsive and animated website with HTML, CSS, and JavaScript for UW's Startup Club.
 
-🌐 **LITSWAP Website**
+ 📚 **LITSWAP Website**
 Co-developed a website for an NGO using Google Sites that aims to distribute books to disadvantaged areas. 3,300+ books have been collected and distributed.
 
 🐾 **Rainbow Nation Animals Website**
