@@ -7,7 +7,11 @@ Computer Science Major @ UW Seattle
 
 🚀 About Me
 
-I'm a Computer Science undergraduate at the University of Washington - Seattle, originally from South Africa. I’m driven by a passion for solving real-world problems through technology and innovation. From machine learning and full-stack development to building impactful health and education platforms, I enjoy working at the intersection of code and community. I believe in dreaming big, taking initiative, and never yielding in the pursuit of growth.
+I'm a Computer Science undergraduate at the University of Washington – Seattle, originally from South Africa. I’m driven by a passion for solving real-world problems through thoughtful software and human-centered design. My work spans machine learning, full-stack development, and mental health tech — often combining technical skill with social impact.
+
+Recently, I launched **OuraNote**, a mental health journaling app that lets users write letters to their future selves, track mood progression through AI-powered sentiment analysis, and reflect privately over time. I had the opportunity to present the app to 700+ students at my former high school in South Africa — a full-circle moment inspired by a Grade 8 classroom activity that first sparked the idea.
+
+I believe in building with purpose and learning through collaboration — whether in engineering, leadership, or community work.
 
 ---
 
@@ -54,7 +58,9 @@ I'm a Computer Science undergraduate at the University of Washington - Seattle, 
 🛠️ Projects
 
 🧠 **Mental Health Time Capsule App – "OuraNote"**  
-React + Firebase cross-platform app that lets users write letters to future selves, with AES encryption and chart-based mood tracking. Currently preparing for App Store and Play Store release.
+React + Firebase cross-platform app that lets users write letters to future selves, with AES encryption and AI-based mood tracking.  
+• Presented to 700+ students at St David’s Marist Inanda  
+• Preparing for App Store and Play Store release
 
 🏥 **DubsTech Health ML Hackathon**  
 Built a CatBoost Regressor model (93.4% test accuracy) to predict hospital discharge costs. Tools: Pandas, NumPy, Seaborn, Tableau.
@@ -75,10 +81,10 @@ Regional champion for explaining quantum physics through video storytelling.
 
 🤝 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aditya-kumar05/)
-- 📧 [Email](mailto:adideeavi1@gmail.com)
-- 📱 [Instagram](https://instagram.com/adi.kumar._)
+- [LinkedIn](https://www.linkedin.com/in/aditya-kumar05/)
+- [Email](mailto:adideeavi1@gmail.com)
+- [Instagram](https://instagram.com/adi.kumar._)
 
 ---
 
-> "Passionate about creating impactful solutions through technology and fitness innovation."
+> Passionate about building meaningful tech at the intersection of wellness, AI, and real-world impact.
