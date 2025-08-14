@@ -1,90 +1,94 @@
 # Hi, I'm Aditya Kumar 👋
 
-Aspiring Software Engineer | Fitness Enthusiast | Tech Innovator  
-Computer Science Major @ UW Seattle
+**Aspiring Software Engineer | AI & Full-Stack Developer | Tech for Social Impact**  
+**B.S. Computer Science @ University of Washington, Seattle | GPA: 3.87**
 
 ---
 
-🚀 About Me
+## 🚀 About Me
 
-I'm a Computer Science undergraduate at the University of Washington – Seattle, originally from South Africa. I’m driven by a passion for solving real-world problems through thoughtful software and human-centered design. My work spans machine learning, full-stack development, and mental health tech — often combining technical skill with social impact.
+I’m a Computer Science student at the University of Washington – Seattle, originally from South Africa, passionate about **building software that solves real-world problems**. My experience spans **machine learning, full-stack development, mobile apps, and cloud technologies**, with a focus on creating meaningful products that combine **technical excellence with social impact**.
 
-Recently, I launched **OuraNote**, a mental health journaling app that lets users write letters to their future selves, track mood progression through AI-powered sentiment analysis, and reflect privately over time. I had the opportunity to present the app to 700+ students at my former high school in South Africa — a full-circle moment inspired by a Grade 8 classroom activity that first sparked the idea.
+I’m the **Co-Founder of OuraNote**, a mental health journaling app with **AI-powered sentiment analysis** and **AES encryption**, empowering users to track and reflect on their emotional well-being. I’ve presented OuraNote to **700+ students** in South Africa, a full-circle moment inspired by a Grade 8 classroom project that planted the idea.
 
-I believe in building with purpose and learning through collaboration — whether in engineering, leadership, or community work.
+I thrive in **collaborative, fast-paced environments**, bringing a mix of technical skills, leadership experience, and creative problem-solving to every project.
 
 ---
 
-💻 Tech Stack
+## 💻 Tech Stack
 
-![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-E34F26?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4682B4?style=for-the-badge&logo=seaborn&logoColor=white)
-![Core Data](https://img.shields.io/badge/Core_Data-4051B5?style=for-the-badge&logo=coredata&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4c8cbf?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-👨‍💻 Experience
+## 👨‍💻 Experience
 
-**Director of Events – Startup Club, University of Washington**  
-• Orchestrated large-scale events and networking opportunities for tech-minded students  
-• Co-developed and maintained the club website using HTML, CSS, and JavaScript  
-• Fostered student engagement through entrepreneurship, innovation, and leadership
+**Co-Founder & Full-Stack Developer – OuraNote**  
+- Engineered full-stack app using React, Zustand, Firebase, and AES encryption  
+- Integrated **AI-powered sentiment analysis** and dynamic data visualizations  
+- Presented to **700+ students**, gaining 100+ MVP visits and 30 early adopters  
+- Currently developing **React Native** mobile app for App Store launch
 
-**Wits University BIS Vacwork – Data Engineering Intern**  
-• Built data pipelines with AWS Glue and managed RDS connections  
-• Created Power BI dashboards for real-world enrolment data  
-• Conducted anomaly detection with Python-based ML models
+**Software Development Intern – MpiloTech**  
+- Built mobile-first apps using **Volt MX Iris**, JavaScript, and REST APIs  
+- Prototyped **blockchain features** including crypto integrations and smart contracts  
+- Optimized API integration and caching, **reducing load times by 40%** for 1,000+ active users
 
-**Glucode – iOS Development Intern**  
-• Contributed to the development of a SwiftUI-based Pokedex app  
-• Gained hands-on experience with agile methodology and code reviews in a professional team environment
+**Data Engineering Intern – Wits University BIS Vacwork**  
+- Built **AWS Glue ETL pipelines** processing 200K+ records; created fact/dimension tables  
+- Used **SQL, Python, and ML modeling** to detect fee anomalies and analyze dropout trends  
+- Delivered dashboards to academic stakeholders, aiding **50+ at-risk students**
 
-**MIT Africa Workshop – Innovation & AI**  
-• Collaborated with top African students on AI, NLP, robotics, and computer vision challenges  
-• Explored cutting-edge technologies to build sustainable, real-world solutions
-
----
-
-🛠️ Projects
-
-🧠 **Mental Health Time Capsule App – "OuraNote"**  
-React + Firebase cross-platform app that lets users write letters to future selves, with AES encryption and AI-based mood tracking.  
-• Presented to 700+ students at St David’s Marist Inanda  
-• Preparing for App Store and Play Store release
-
-🏥 **DubsTech Health ML Hackathon**  
-Built a CatBoost Regressor model (93.4% test accuracy) to predict hospital discharge costs. Tools: Pandas, NumPy, Seaborn, Tableau.
-
-🌍 **NGO Websites – LITSWAP & Rainbow Nation Animals**  
-Developed and launched websites for nonprofit causes (3,300+ books donated, 1,200+ animals rescued) using Google Sites and WordPress.
-
-🌐 **Startup Club Website**  
-Designed and deployed a clean, animated, responsive website using HTML, CSS, and vanilla JavaScript.
-
-📱 **MyTo-DoList iOS App**  
-A productivity app with 130+ downloads on the App Store, built using SwiftUI and Core Data.
-
-🎥 **Breakthrough Junior Challenge – Quantum Entanglement**  
-Regional champion for explaining quantum physics through video storytelling.
+**iOS Development Intern – Glucode**  
+- Contributed to SwiftUI-based **Pokedex app** in an agile team environment  
+- Developed **MyTo-DoList** productivity app (130+ downloads) with Core Data and custom UI
 
 ---
 
-🤝 Connect with Me
+## 🛠️ Projects
 
-- [LinkedIn](https://www.linkedin.com/in/aditya-kumar05/)
-- [Email](mailto:adideeavi1@gmail.com)
-- [Instagram](https://instagram.com/adi.kumar._)
+**🧠 OuraNote – Mental Health Time Capsule App**  
+Cross-platform journaling app with **AI mood tracking**, AES encryption, and Firebase backend. Presented to 700+ students.  
+
+**🏥 DubsTech Health ML Hackathon**  
+Built a CatBoost Regressor (**93.4% accuracy**) predicting hospital discharge costs. Tools: Pandas, NumPy, Seaborn, Tableau.  
+
+**🌍 NGO Websites – LITSWAP & Rainbow Nation Animals**  
+Launched websites enabling **3,300+ book donations** and **1,200+ animal rescues** using Google Sites and WordPress.  
+
+**🌐 Startup Club Website**  
+Designed responsive, animated HTML/CSS/JavaScript site, boosting event sign-ups by **40%**.  
+
+**📱 MyTo-DoList iOS App**  
+SwiftUI + Core Data task manager with 130+ downloads.  
+
+**🎥 Breakthrough Junior Challenge – Quantum Entanglement**  
+Ranked **1st in Africa & Middle East** out of 2,500+ entries; featured on national TV.  
 
 ---
 
-> Passionate about building meaningful tech at the intersection of wellness, AI, and real-world impact.
+## 🤝 Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/aditya-kumar05/)  
+- [Email](mailto:adideeavi1@gmail.com)  
+- [GitHub](https://github.com/AdiKum26)  
+- [Portfolio](https://mentalhealthapp-59913.web.app/)  
+
+---
+
+> *I’m seeking **Summer 2026 software engineering internships** where I can apply my skills in AI, full-stack development, and problem-solving to deliver impactful products.*
