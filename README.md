@@ -19,9 +19,6 @@ I care about **shipping fast**, **designing meaningful user experiences**, and *
 
 ## 💻 Tech I Work With
 
-<!-- same tech stack badges as before, keep as-is -->
-(keeping your full badge section — it’s excellent, industry-ready)
-
 ---
 
 ## 🧩 Experience Highlights
@@ -38,8 +35,6 @@ I care about **shipping fast**, **designing meaningful user experiences**, and *
 → Built AI agent that **instantly matches UW students to real research labs & generates personalized outreach emails**  
 → AWS Bedrock + Lambda + DynamoDB + OpenAI fallback
 
-(… rest of experience stays, but this signals AI operator clearly)
-
 ---
 
 ## 🛠️ Projects That Matter
@@ -49,8 +44,6 @@ I care about **shipping fast**, **designing meaningful user experiences**, and *
 ✅ **Finderly – AI DIY Home Repair Voice Assistant**  
 ✅ **DubsTech ML – 4th place in international healthcare ML hackathon**  
 ✅ **NGO & fintech projects with real measurable human impact**
-
-*(not “what I built” — but **who it helped**.)*
 
 ---
 
