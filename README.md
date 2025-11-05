@@ -3,6 +3,7 @@
 **AI Software Engineer | Builder of Voice & Full-Stack AI Products | Tech for Human Impact**  
 **B.S. Computer Science @ University of Washington | GPA: 3.87 | Dean’s List (All Quarters)**  
 
+🚀 Explore my personal portfolio → [adikum26.github.io](https://adikum26.github.io)
 ---
 
 ## 🚀 What I Build
