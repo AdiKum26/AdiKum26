@@ -1,6 +1,6 @@
 # 🚀 Hi, I’m Aditya Kumar
 
-**AI Software Engineer | Voice & Agentic AI | Full-Stack Builder | Human-Centered Systems**  
+**AI Systems & Agentic AI Researcher | Full-Stack AI Engineer | Human-Centered Systems**  
 **B.S. Computer Science @ University of Washington (Direct Admit)**
 
 🔗 **Portfolio:** https://adikum26.github.io  
@@ -10,13 +10,14 @@
 
 ## 🌟 What I Build
 
-I build **AI systems that ship** — production voice agents, ML pipelines, and full-stack apps focused on **real users**, not demos.
+I build **AI systems that ship** — agentic AI, evaluation pipelines, voice interfaces, and full-stack applications designed for **real users**, not demos.
 
 - 🧠 **Co-Founder, OuraNote** — AI mental health journaling platform (web + mobile) with sentiment analysis and a voice-based AI assistant; presented to **700+ students**, **100+ visits / 30 active users** at MVP  
-- 🔧 **AI Engineer @ Finderly (5,000+ users)** — building a **real-time AI home-repair assistant** (Whisper + GPT-4o + TTS) inside a production React Native app  
+- 🔬 **Undergraduate Researcher, UW Allen School** — working on **automated evaluation of agentic & multi-agent LLM systems**, focusing on failure analysis, reliability, and system-level debugging  
+- 🔧 **Former AI Software Engineer Intern, Finderly (5,000+ users)** — built a **real-time AI home-repair assistant** (Whisper + GPT-4o + TTS) inside a production React Native app  
 - 🏆 **DubHacks 2025** — built **Seekr**, an AI research & career agent matching UW students to labs, professors, and opportunities using **AWS Bedrock + Lambda + DynamoDB**
 
-I care about **shipping fast**, **system reliability**, and designing **emotionally intelligent AI**.
+I care about **shipping fast**, **system reliability**, and building **emotionally intelligent, trustworthy AI**.
 
 ---
 
@@ -24,7 +25,7 @@ I care about **shipping fast**, **system reliability**, and designing **emotiona
 
 ### **AI / ML**
 Python · PyTorch · scikit-learn · CatBoost · Pandas · NumPy  
-Whisper · GPT-4o / 4o-mini · TTS · Azure OpenAI · AWS Bedrock (Claude-3)
+Whisper · GPT-4o / 4o-mini · TTS · Azure OpenAI · AWS Bedrock (Claude)
 
 ### **Frontend / Mobile**
 React · React Native · TypeScript · Expo · Zustand · SwiftUI · CSS
@@ -41,12 +42,13 @@ SQL · Power BI · Tableau · Git/GitHub · Docker · Postman
 
 ## 🧩 Experience
 
-### **AI Software Engineer Intern — Finderly**
-*Oct 2025 – Present | Remote*
+### **Undergraduate Researcher — Agentic AI Systems**
+*University of Washington · Jan 2026 – Present*
 
-- Building a **real-time conversational AI repair assistant** (Whisper + GPT + TTS)  
-- Designing **context-aware, multimodal pipelines** for speech, intent, and step-by-step guidance  
-- Shipping to a production app with **5,000+ active users**
+- Automating **testing and evaluation pipelines** for agentic & multi-agent LLM systems  
+- Analyzing agent execution logs using **failure taxonomies** (e.g., specification issues, inter-agent misalignment, task verification)  
+- Building **LLM-as-a-judge frameworks** to diagnose system-level failures without retraining models  
+- Focused on improving **reliability, debuggability, and evaluation rigor** for AI agents
 
 ---
 
@@ -57,6 +59,15 @@ SQL · Power BI · Tableau · Git/GitHub · Docker · Postman
 - Implemented a **voice-based AI therapist** with conversational memory  
 - Deployed sentiment analysis dashboards for emotional insights  
 - Live app: https://mentalhealthapp-59913.web.app
+
+---
+
+### **AI Software Engineer Intern — Finderly**
+*Oct 2025 – Dec 2025 | Remote*
+
+- Built a **real-time conversational AI repair assistant** (Whisper + GPT + TTS)  
+- Designed **context-aware, multimodal pipelines** for speech, intent, and step-by-step guidance  
+- Shipped features used by **5,000+ active users**
 
 ---
 
@@ -116,8 +127,9 @@ Born in India, raised in South Africa. I build technology for **access, impact, 
 
 ## 📌 Currently Focused On
 
+- Automating **agentic AI evaluation & testing**
 - Shipping **multimodal voice agents** in production  
-- UW research on **LLM agent reliability & context engineering**  
+- Research on **LLM agent reliability & context engineering**  
 - Preparing for **Summer 2026 SWE / AI internships**  
 - Launching OuraNote mobile app
 
