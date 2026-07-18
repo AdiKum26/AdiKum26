@@ -1,167 +1,226 @@
-# 🚀 Hi, I’m Aditya Kumar
+# 👋 Hi, I'm Aditya Kumar
 
-**Agentic AI Researcher | Full-Stack AI Engineer | Builder of Human-Centered AI Systems**  
-**B.S. in Computer Science @ University of Washington (Direct Admit)**
+**Software Engineer | AI Systems Researcher | Building Reliable Agentic AI**
 
-🔗 **Portfolio:** https://adikum26.github.io  
-🔗 **LinkedIn:** https://linkedin.com/in/aditya-kumar05  
+🎓 **B.S. Computer Science @ University of Washington (Paul G. Allen School)**
 
----
-
-## 🌟 About Me
-
-I build **AI systems that ship** — from agent evaluation pipelines and multimodal voice assistants to full-stack products designed for real users.
-
-Right now, I’m especially interested in:
-- **Agentic AI systems**
-- **LLM reliability, evaluation, and debugging**
-- **Voice + multimodal interfaces**
-- **Human-centered products with real-world impact**
-
-I care about building systems that are not just impressive in demos, but **robust, trustworthy, and useful in practice**.
-
----
-
-## 🔥 Highlights
-
-- 🔬 **Undergraduate Researcher, UW Allen School** — analyzing **500+ agent traces** across BFCL, AppWorld, and MCP-Universe; building **LLM-as-a-judge pipelines** and studying failure modes in multi-agent and personal-agent systems  
-- 💼 **Incoming Software Engineer Intern, LinkedIn (Summer 2026)**  
-- 💼 **Incoming Junior Software Developer Engineer, Amazon**  
-- 🧠 **Co-Founder, OuraNote** — AI-powered mental health journaling platform with voice features, sentiment insights, and encrypted personal reflections  
-- 🔧 **Former AI Software Engineer Intern, Finderly** — built a production **AI home-repair voice assistant** in a React Native app with **5,000+ downloads**  
-- 🏆 **Hackathon Builder** — built **Seekr**, an AI research and career agent matching students to labs, scholarships, and opportunities
-
----
-
-## 💻 Tech Stack
-
-### **AI / ML**
-Python · PyTorch · scikit-learn · CatBoost · Pandas · NumPy  
-LLM Evaluation · Prompting · Failure Analysis · Whisper · GPT-4o · GPT-4o-mini · TTS  
-Azure OpenAI · AWS Bedrock · Agentic AI Systems
-
-### **Frontend / Mobile**
-React · React Native · TypeScript · Expo · Zustand · SwiftUI · HTML · CSS
-
-### **Backend / Infra**
-Node.js · Express · REST APIs · WebSockets  
-AWS Lambda · DynamoDB · S3 · API Gateway  
-Firebase Auth · Firestore · Cloud Functions
-
-### **Data / Tools**
-SQL · Power BI · Tableau · Git · GitHub · Docker · Postman · AWS Glue
-
----
-
-## 🧩 Experience
-
-### **Undergraduate Researcher — Agentic AI Systems**
-*Paul G. Allen School of Computer Science & Engineering, University of Washington*  
-*Jan 2026 – Present*
-
-- Analyzed **500+ agent execution traces** across **BFCL, AppWorld, and MCP-Universe** to identify failure patterns in multi-agent LLM systems  
-- Built an **LLM-as-a-judge pipeline** using **GPT-5.2** to classify system-level agent failures from logs and stack traces  
-- Engineered **similarity-based few-shot prompting**, improving held-out error classification performance to **0.6103 F1**  
-- Applied an **agent failure taxonomy** to diagnose issues in API-driven workflows such as trading, ticketing, and GitHub automation  
-
----
-
-### **Co-Founder & Full-Stack AI Engineer — OuraNote**
-*Feb 2025 – Present | Remote*
-
-- Building an AI-powered journaling platform for mental health reflection, future letters, and emotional self-tracking  
-- Developed encrypted journaling workflows and sentiment-based emotional insights  
-- Built voice-based AI interaction features for more natural and accessible reflection  
-- Presented OuraNote to **700+ students** and launched the MVP to real users  
-
-🔗 Live app: https://mentalhealthapp-59913.web.app
-
----
-
-### **AI Software Engineer Intern — Finderly**
-*Oct 2025 – Dec 2025 | Remote*
-
-- Built a **real-time AI home-repair assistant** using **Whisper + GPT + TTS** inside a production React Native app  
-- Designed context-aware speech and guidance pipelines for step-by-step troubleshooting  
-- Contributed to product features in an app with **5,000+ downloads**
-
----
-
-### **Software Development Intern — MpiloTech**
-*Jul 2025 – Sep 2025 | Johannesburg, South Africa*
-
-- Improved backend systems for a mobile e-commerce application serving **1,000+ users**  
-- Reduced API latency by **40%+** through caching and backend optimization  
-
----
-
-### **Data Engineering Intern — Wits University BIS**
-*Jun 2025 – Jul 2025 | Johannesburg, South Africa*
-
-- Built **AWS Glue ETL pipelines** over **200K+ student/course records**  
-- Developed Power BI dashboards that helped identify **50+ at-risk students**  
-- Applied SQL, Python, and anomaly detection to analyze dropout and fee-risk trends  
-
----
-
-## 🛠️ Selected Projects
-
-### **Seekr — AI Research & Career Agent**
-An autonomous agent that helps students discover professors, labs, scholarships, and opportunities aligned with their interests.
-
-- Matches users to **real professors, labs, scholarships, and roles**
-- Generates personalized outreach content
-- Built using **AWS Bedrock + Lambda + DynamoDB**
-
----
-
-### **DubsTech Health ML Hackathon**
-- Built a **CatBoost model with 93.4% accuracy** to predict hospital discharge costs  
-- Trained on **1.8M+ NY SPARCS medical records**  
-- Placed **4th** in the competition  
-
----
-
-### **NGO Platforms — LITSWAP & Rainbow Nation Animals**
-- Built platforms supporting **3,300+ book donations** and **1,200+ animal rescues**  
-- Led design and development end-to-end  
-
----
-
-## 💼 Leadership & Community
-
-- **Technical Director — BookSmart**  
-  Leading engineering for a student textbook resale platform helping students reduce textbook costs
-
-- **Director of Events — Startup Club UW**  
-  Helped grow UW’s startup community through events, founder sessions, and student engagement
-
-- **Officer — UW Barbell Club**  
-  Help organize events, presentations, and community-building initiatives
-
----
-
-## 🌍 Background
-
-Born in India and raised in South Africa, I’ve seen how access, opportunity, and technology can shape lives very differently.
-
-That perspective drives the way I build: I want to create systems that are not only technically strong, but also **useful, inclusive, and impactful**.
-
----
-
-## 📌 Currently Focused On
-
-- **Agentic AI evaluation, testing, and debugging**
-- **LLM reliability and context engineering**
-- **Multimodal voice agents**
-- **Full-stack AI products for real users**
-- Preparing for **LinkedIn** and **Amazon** engineering roles
-
----
-
-## 🤝 Let’s Connect
-
-📧 **Email:** adikum26@uw.edu  
-🔗 **GitHub:** https://github.com/AdiKum26  
 🔗 **Portfolio:** https://adikum26.github.io  
 🔗 **LinkedIn:** https://linkedin.com/in/aditya-kumar05
+
+---
+
+# About Me
+
+I'm a Computer Science student at the University of Washington passionate about building intelligent systems that combine software engineering, AI research, and real-world products.
+
+Recently, I worked as a **Software Engineering Intern at LinkedIn**, where I developed long-term memory infrastructure for LinkedIn's **Cognitive Memory Agent (CMA)**. My work focused on scalable memory ingestion, retrieval, and structured memory systems that improve personalization, query relevance, and latency for AI experiences.
+
+Alongside industry work, I'm an **Undergraduate Researcher** in the UW Allen School, studying the reliability of multi-agent LLM systems through automated evaluation pipelines, LLM-as-a-Judge frameworks, context engineering, and failure analysis.
+
+Outside of work, I enjoy building AI-powered products that people actually use—from voice assistants and retrieval systems to full-stack applications and developer tools.
+
+---
+
+# Highlights
+
+- 💼 Software Engineering Intern @ LinkedIn
+- 🔬 Undergraduate AI Researcher @ UW Allen School
+- 🤖 Built production AI features for an app with 5,000+ downloads
+- 🧠 Co-Founder of OuraNote, an AI-powered journaling platform
+- 🛡️ Built an offline RAG system running entirely on-device
+- 🏆 4th Place — DubsTech Health AI Hackathon
+
+---
+
+# Currently Interested In
+
+- 🤖 Agentic AI
+- 🧠 Long-Term Memory Systems
+- 📊 LLM Evaluation & Reliability
+- 🔍 Retrieval-Augmented Generation (RAG)
+- ⚙️ Distributed Systems
+- 🏗️ AI Infrastructure
+- 🎙️ Multimodal & Voice Interfaces
+
+---
+
+# Experience
+
+## 💼 Software Engineering Intern — LinkedIn
+
+**Summer 2026**
+
+- Built long-term memory infrastructure for LinkedIn's Cognitive Memory Agent (CMA)
+- Developed scalable memory ingestion and retrieval pipelines
+- Improved structured memory updates to better capture evolving user intent
+- Worked on production AI systems serving personalized experiences
+
+---
+
+## 🔬 Undergraduate Researcher — UW Allen School
+
+**Agentic AI Systems**
+
+Current research focuses on:
+
+- Automated evaluation pipelines for AI agents
+- LLM-as-a-Judge evaluation
+- Multi-agent system reliability
+- Multi-Agent System Failure Taxonomy (MAST)
+- Context engineering
+- Agent execution log analysis
+- Failure diagnosis without retraining foundation models
+
+🔗 **Research Repository:** https://github.com/AdiKum26/Web-Agent-Gateway-System-Research
+
+---
+
+## 🤖 AI Software Engineer Intern — Finderly
+
+**Oct 2025 – Jan 2026**
+
+Developed production AI features for a home-repair platform with **5,000+ downloads**, focused on conversational voice interfaces and real-time AI assistance.
+
+### Highlights
+
+- Built a real-time conversational AI assistant using **Whisper + GPT + Text-to-Speech** for hands-free DIY repair guidance
+- Designed context-aware AI pipelines that combined speech recognition, LLM reasoning, and voice synthesis
+- Contributed to a production **Expo React Native** application used by thousands of users
+- Improved user experience by enabling natural voice interactions for step-by-step troubleshooting
+
+---
+
+## 🧠 Co-Founder & Engineer — OuraNote
+
+Building an AI-powered mental wellness platform that combines long-term memory, conversational AI, voice interaction, and emotional insights.
+
+- AI-assisted reflection
+- Conversational voice AI
+- Long-term memory
+- Sentiment analysis
+- Privacy-first architecture
+- Full-stack product used by real users
+
+**Stack**
+
+React • TypeScript • Firebase • OpenAI • Whisper • GPT-4 • AES Encryption
+
+🔗 **GitHub:** https://github.com/OuraNote/mental-health-app
+
+---
+
+## 🛡️ SafetyGuide.AI
+
+Offline-first RAG chatbot for Pacific Northwest disaster preparedness. The complete retrieval pipeline—including embeddings, vector search, BM25, reranking, and a 7B LLM—runs entirely on a single laptop with no internet connection.
+
+### Highlights
+
+- Built hybrid retrieval combining **FAISS semantic search** and **BM25 keyword search**
+- Combined retrieval results using **Reciprocal Rank Fusion (RRF)**
+- Improved retrieval quality with **bge-reranker-base** cross-encoder reranking
+- Implemented a **hard confidence gate** that refuses LLM generation when retrieval confidence is low
+- Applied safety-first chunk ordering so emergency guidance is always surfaced before supporting information
+- Served a locally hosted **Qwen2.5-7B** model using **llama-cpp-python**
+
+**Stack**
+
+Python • FastAPI • FAISS • BM25 • sentence-transformers • llama-cpp-python • Qwen2.5-7B • Next.js • React
+
+🔗 **GitHub:** https://github.com/AdiKum26/safetyguide
+
+---
+
+## 🤖 Seekr
+
+AI-powered research and career agent built for University of Washington students that autonomously discovers research labs, internships, scholarships, and on-campus jobs while generating personalized faculty outreach.
+
+### Highlights
+
+- Designed an autonomous AI agent architecture using **AWS Bedrock**, **Lambda**, **API Gateway**, and **DynamoDB**
+- Built personalized opportunity matching using student resumes, interests, and eligibility constraints
+- Generated personalized professor outreach emails using Claude-based orchestration
+- Developed Lambda-based pipelines to scrape UW research labs, scholarships, and campus jobs
+- Architected independent agents for opportunity discovery, matching, analytics, and email generation
+- Built production-ready AWS infrastructure with an OpenAI fallback during hackathon development
+
+**Stack**
+
+React • TypeScript • AWS Bedrock • AWS Lambda • DynamoDB • API Gateway • Claude • OpenAI • Tailwind CSS
+
+🔗 **GitHub:** https://github.com/AdiKum26/Seekr
+
+---
+
+## 🔬 Web Agent Gateway Research
+
+Research project exploring the reliability of multi-agent LLM systems through automated evaluation, context engineering, and failure analysis.
+
+### Highlights
+
+- Built automated pipelines to analyze agent execution traces and identify system-level failure modes
+- Implemented LLM-as-a-Judge evaluation grounded in formal failure taxonomies
+- Applied the **Multi-Agent System Failure Taxonomy (MAST)** to diagnose specification errors, inter-agent misalignment, and task verification failures
+- Studied parallels between research benchmarks and real-world function-calling agents operating across web and API environments
+- Designed tooling to improve agent reliability without retraining underlying foundation models
+
+**Focus Areas**
+
+LLM Evaluation • Agent Reliability • Context Engineering • Multi-Agent Systems • Failure Analysis
+
+🔗 **GitHub:** https://github.com/AdiKum26/Web-Agent-Gateway-System-Research
+
+---
+
+## 🏥 DubsTech Health ML
+
+Machine learning pipeline for predicting hospital discharge costs using over one million records from the New York SPARCS healthcare dataset.
+
+### Highlights
+
+- Built an end-to-end preprocessing and feature engineering pipeline for large-scale healthcare data
+- Evaluated multiple regression models before selecting **CatBoostRegressor** as the final model
+- Achieved **93.4% test accuracy** with a **±0.0011** margin of error
+- Performed exploratory analysis to identify trends across hospitals, illness severity, and historical cost patterns
+- Placed **4th** at the DubsTech Health AI Hackathon
+
+**Stack**
+
+Python • CatBoost • Pandas • NumPy • scikit-learn • Matplotlib
+
+🔗 **GitHub:** https://github.com/AdiKum26/DubsTech-Health-ML-2025
+
+---
+
+# Current Focus
+
+- 🧠 Building long-term memory systems for AI agents
+- 🔬 Researching reliable multi-agent LLM evaluation at the UW Allen School
+- ⚡ Exploring retrieval systems, context engineering, and AI infrastructure
+- 🚀 Building production-ready AI products that solve real-world problems
+
+---
+
+# Looking For
+
+I'm currently seeking **Summer 2027 Software Engineering and AI Engineering internships**, particularly in:
+
+- AI Infrastructure
+- Machine Learning Systems
+- Distributed Systems
+- Agentic AI
+- Retrieval Systems
+- LLM Platforms
+
+If you're working in these areas, I'd love to connect!
+
+---
+
+# Let's Connect
+
+📧 **Email:** adikum26@uw.edu
+
+🌐 **Portfolio:** https://adikum26.github.io
+
+💼 **LinkedIn:** https://linkedin.com/in/aditya-kumar05
+
+💻 **GitHub:** https://github.com/AdiKum26
